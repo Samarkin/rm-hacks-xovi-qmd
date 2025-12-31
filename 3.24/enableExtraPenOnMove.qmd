@@ -1,0 +1,16 @@
+VERSION 3.23.0.64
+VERSION 3.24.0.149
+VERSION 3.24.2.0
+
+; enable extra pen on reMarkable Paper Pro Move
+; https://github.com/ingatellent/xovi-qmd-extensions
+
+AFFECT REBUILD [[6678796237980861207]]
+LOCATE BEFORE { "SecondaryPen": {
+        ~&"254522926132630058&~: ~&214625660372&~
+    }, }
+REMOVE LOCATED
+INSERT { "SecondaryPen": {
+        ~&"254522926132630058&~: ~&6504329801&~
+    }, }
+END REBUILD
