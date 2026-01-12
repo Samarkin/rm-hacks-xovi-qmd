@@ -20,7 +20,7 @@ software's licensing requirements when using these patches.
 
 These patches have only been tested on the 
 [reMarkable Paper Pro Move](https://remarkable.com/products/remarkable-paper/pro-move)
-tablet and only on explicitly listed OS versions.
+tablet and only on the OS versions explicitly listed in each qmd file.
 
 ## How to install?
 
@@ -48,7 +48,7 @@ this step after every software update)
 | gestures.qmd | myself | Simple gestures to switch between pens and the selection tool. | It creates extra learning curve for the users, and makes scrolling more difficult (you need to swipe strictly in the center). |
 | hideCloseButton.qmd | [asivery](https://github.com/asivery/rm-hacks-qmd) | Removes the button that I never use. Doing so frees up some space in the toolbar (e.g. for the second pen). | It creates confusion for the first-time reMarkable users (until they learn that you can close a document with a swipe from the top). |
 | instantFavorites.qmd | myself | Removes delayed automatic rearranging of the recents/favorites. Once you pull down the document drawer (swipe with two fingers from the top), whatever gets displayed there first stays, so you can tap on a document immediately without waiting for it to finish updating. | You _will_ sometimes see outdated information in the document drawer. |
-| toolbarIcon.qmd | [FouzR](https://github.com/FouzR/xovi-extensions)¹ | Displays some info about the currently selected tool inside the hide/show toolbar button, but in a very non-invasive way. | I didn't test it with all toolbar positions, so your mileage may vary. |
+| toolbarIcon.qmd | [FouzR](https://github.com/FouzR/xovi-extensions)¹ | Displays some info about the currently selected tool inside the hide/show toolbar button, but in a very non-invasive way. When black pen is selected, it is designed to not show any changes. | It is not as useful without gestures. |
 | uncompressDock.qmd | [NohamR](https://github.com/NohamR/xovi-qmd-extensions) | Replace the + button in the document navigator with the actual icons. | It is not immediately clear what the buttons do, unless you have used them before. |
 
 ¹ with modifications
