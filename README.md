@@ -1,4 +1,4 @@
-# rM Hacks
+# rM Hacks [![rm1 (unknown)](https://img.shields.io/badge/rM1-unknown-yellow)](https://remarkable.com/products/remarkable-1) [![rm2 (unknown)](https://img.shields.io/badge/rM2-unknown-yellow)](https://remarkable.com/products/remarkable-2) [![rmpp (unknown)](https://img.shields.io/badge/rMPP-unknown-yellow)](https://remarkable.com/products/remarkable-paper/pro) [![rmppm (supported)](https://img.shields.io/badge/rMPPM-supported-green)](https://remarkable.com/products/remarkable-paper/pro-move)
 
 This is a collection of minor quality-of-life improvements for the
 [reMarkable](https://remarkable.com) paper tablets.
