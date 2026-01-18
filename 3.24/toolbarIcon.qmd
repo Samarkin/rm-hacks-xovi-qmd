@@ -1,7 +1,13 @@
+; Copyright (c) 2025 FouzR
+; Copyright (c) 2025-2026 Pavel Samarkin
+; Licensed under the MIT License.
+; See NOTICE in the repository root for the full license text.
+
 VERSION 3.24.0.149
 VERSION 3.24.2.0
 
 ; display minimal hints about the current tool in the expand toolbar icon
+; https://github.com/FouzR/xovi-extensions
 
 AFFECT [[11313888899523275277]]
     TRAVERSE [[8397993708429497603]]#[[6504254477]] > [[6502786168]]#[[233745975898428]] > [[8398044571386570029]]#[[8400129135001204805]] > [[425121728314878811.8398643967132532355]]#[[13579659825110248192]]

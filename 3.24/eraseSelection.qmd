@@ -1,3 +1,8 @@
+; Copyright (c) 2025 FouzR
+; Copyright (c) 2025-2026 Pavel Samarkin
+; Licensed under the MIT License.
+; See NOTICE in the repository root for the full license text.
+
 VERSION 3.24.0.149
 VERSION 3.24.2.0
 
