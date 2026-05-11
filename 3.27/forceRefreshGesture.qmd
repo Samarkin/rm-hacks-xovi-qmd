@@ -1,0 +1,19 @@
+; Copyright (c) 2025 asivery
+; Copyright (c) 2025-2026 Pavel Samarkin
+; Licensed under the MIT License.
+; See NOTICE in the repository root for the full license text.
+
+VERSION 3.25.1.1
+VERSION 3.26.0.68
+VERSION 3.27.1.0
+
+; five finger force refresh
+; https://github.com/asivery/rm-hacks-qmd
+
+AFFECT [[17298303916558156758]]
+    TRAVERSE [[254504370080162629]] > [[8520322697674622449]]#[[17451049988834079337]]
+        REPLACE [[233726547792244]] WITH {
+            ~&233726547792244&~: !~&11206357713879652003&~.~&496507644976596653&~
+        }
+    END TRAVERSE
+END AFFECT
